@@ -6,7 +6,7 @@ const VERSION = 'suab-pwa-v1'
 const PRECACHE = [
   "/Suab-deploy/",
   "/Suab-deploy/manifest.webmanifest",
-  "/Suab-deploy/index-FbyCQneY.css",
+  "/Suab-deploy/index-Ca4vFXNY.css",
   "/Suab-deploy/suab-logo-DB_5mAK3.png",
   "/Suab-deploy/index.html"
 ]
